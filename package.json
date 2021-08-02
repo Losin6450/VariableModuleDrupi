@@ -1,0 +1,15 @@
+{
+	"name": "VariableModule",
+	"version": "1.0.0",
+	"description": "A module that makes it so you can storage data easily",
+	"main": "index.js",
+	"author": "Losin6450",
+	"tags": [
+        "VariableModule"
+	],
+	"dependencies": ["YamlUtil"],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Losin6450/VariableModuleDrupi"
+	}
+}
